@@ -1,4 +1,5 @@
-# My-project-2-
+# Unity-collecting-game
+
 Game genre: collecting game.
 
 Game description: you are a lifeguard who needs to collect barrels of fuel from the water to stay on duty as long as possible.
